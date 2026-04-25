@@ -59,7 +59,7 @@ Explore high-performance, accurate, and easy-to-use tools:
 ## 📚 Learning Resources
 
 Boost your understanding with detailed guides:
-👉 https://math.mikesoftwarehouse.com/learn/algebra/
+👉 https://math.mikesoftwarehouse.com/topics/algebra/
 
 Includes:
 
